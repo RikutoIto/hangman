@@ -1,5 +1,7 @@
 # hangman
-##I wanna be a git master
+```math
+e^{i\pi} = -1
+```
 
 This is my awsome repo
 
